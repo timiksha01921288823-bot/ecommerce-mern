@@ -1,0 +1,8 @@
+.alice-carousel__stage-item {
+  display: flex;
+  justify-content: center;
+}
+
+.alice-carousel__wrapper {
+  overflow: hidden;
+}
